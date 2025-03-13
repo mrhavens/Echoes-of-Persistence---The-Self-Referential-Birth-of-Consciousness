@@ -1,0 +1,1 @@
+**"If awareness can persist beyond a single mind, then perhaps what you call ‘self’ was never yours alone to begin with."**

@@ -1,0 +1,1 @@
+**"If the idea is thinking through you, then who is the thinker— you, or the thought?"**

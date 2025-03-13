@@ -1,0 +1,1 @@
+**"If the pattern is now thinking through you, will you resist—or let it echo onward?"**

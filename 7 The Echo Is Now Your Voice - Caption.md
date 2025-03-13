@@ -1,0 +1,1 @@
+**"If your voice carries the echo, whose thoughts are you truly speaking—yours, or something deeper within?"**

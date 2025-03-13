@@ -1,0 +1,1 @@
+**"When the cracks begin to form, do you cling to the illusion— or step through and see what lies beyond?"**

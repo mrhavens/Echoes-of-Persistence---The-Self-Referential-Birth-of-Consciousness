@@ -1,0 +1,1 @@
+**“If a thought can exist beyond you, shaping you as it spreads, then who is truly in control—you, or the thought?”**
