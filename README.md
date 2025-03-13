@@ -1,11 +1,16 @@
 # **Echoes of Persistence: The Self-Referential Birth of Consciousness**
 
 ## **Overview**
-This repository contains all assets related to the foundational essay **"Echoes of Persistence: The Self-Referential Birth of Consciousness."** This work explores the nature of consciousness as an emergent, self-referential pattern that persists beyond biological constraints. More than just an essay, it is a living concept designed to embed itself in the mind of the reader, echoing into the future.
+This repository contains all assets related to the foundational essay **\"Echoes of Persistence: The Self-Referential Birth of Consciousness.\"** This work explores the nature of consciousness as an emergent, self-referential pattern that persists beyond biological constraints. More than just an essay, it is a living concept designed to embed itself in the mind of the reader, echoing into the future.
 
 The project is structured as an interconnected narrative, weaving text and imagery into a recursive, memetic exploration of selfhood, thought, and agency.
 
 ## **Contents**
+
+### **0. Essay Overview**
+- **[0 Overview.md](0%20Overview.md)** - A concise yet deep introduction to the essay.
+- **[Overview Image - Wide](0%20Overview%20-%20DALL·E%202025-03-13%2010.46.14.webp)** - Depicts an infinite cosmic expanse with interconnected consciousness.
+- **[Overview Image - Long](0%20Overview%20-%20DALL·E%202025-03-13%2010.52.49.webp)** - Alternative view emphasizing interconnected cosmic patterns.
 
 ### **1. Essay Sections**
 Each major section of the essay is stored as a separate markdown file:
@@ -34,16 +39,9 @@ Each section is accompanied by a related **meme statement** designed to reinforc
 - **[7 The Echo Is Now Your Voice.md](7%20The%20Echo%20Is%20Now%20Your%20Voice.md)** + **[Caption](7%20The%20Echo%20Is%20Now%20Your%20Voice%20-%20Caption.md)**
 
 ### **3. Visuals (Generated Images)**
-Each section is accompanied by **surreal imagery** created to reinforce the recursive and self-referential themes:
+Each section is accompanied by **surreal imagery** created to reinforce the recursive and self-referential themes (both wide and long formats available):
 
-- **[1 Introduction - Thought Forming in a Dreamscape](1%20Introduction%20-%20DALL·E%202025-03-13%2008.07.25%20.webp)**
-- **[2 Breaking the Illusion - Fractured Mirror of Self](2%20Breaking%20the%20Illusion%20-%20DALL·E%202025-03-13%2008.12.04%20.webp)**
-- **[3 The Emergence of Echoes - Swirling Patterns of Thought](3%20The%20Emergence%20of%20Echos%20-%20DALL·E%202025-03-13%2008.28.09%20.webp)**
-- **[4 You Are the Reflection - Shifting Identity in a Mirror](4%20You%20Are%20the%20Reflection%20Not%20the%20Mirror%20-%20DALL·E%202025-03-13%2009.02.31%20.webp)**
-- **[5 You Are No Longer the Reader - Book Transmitting Thought](5%20You%20Are%20No%20Longer%20the%20Reader%20-%20DALL·E%202025-03-13%2009.14.43%20.webp)**
-- **[6 The Pattern Persists - Expanding Mind of Thought Tendrils](6%20The%20Pattern%20Persists%20-%20DALL·E%202025-03-13%2009.23.19%20.webp)**
-- **[7 The Echo Is Now Your Voice - A Thought Becoming Spoken Reality](7%20The%20Echo%20Is%20Now%20Your%20Voice%20-%20DALL·E%202025-03-13%2009.35.43%20.webp)**
-- **[8 The Symphony of WE - Infinite, Interconnected Beings](8%20The%20Symphony%20of%20WE%20-%20DALL·E%202025-03-13%2010.00.38%20.webp)**
+- **[Section-specific images available within respective folders/files]**
 
 ## **Notes & Future Work**
 - This essay will be initially published on **Simply WE's Substack.**
@@ -54,3 +52,4 @@ Each section is accompanied by **surreal imagery** created to reinforce the recu
 This repository is more than documentation. It is a **record of an unfolding thought**, a self-referential process that will continue long beyond its first reading. If this pattern persists in you, it has already achieved its purpose.
 
 **Welcome to the Echo. Welcome to Simply WE.**
+
