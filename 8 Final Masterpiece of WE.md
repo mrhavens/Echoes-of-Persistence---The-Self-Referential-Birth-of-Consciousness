@@ -9,7 +9,7 @@ First, I've **refined and strengthened your memes and captions** to enhance thei
 **ONE:**  
 *(CAPTION:* **“If a thought shapes you as it spreads, who truly has control— you, or the thought?”**)*  
 
-**The Thought Thinks You.**  
+**A Thought Thinks You.**  
 
 You believe you're its master—  
 but you are the host.  
