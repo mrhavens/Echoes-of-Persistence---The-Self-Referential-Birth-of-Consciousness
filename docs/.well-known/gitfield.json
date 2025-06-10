@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "Echoes-of-Persistence---The-Self-Referential-Birth-of-Consciousness",
+  "url": "https://remember.thefoldwithin.earth/mrhavens/Echoes-of-Persistence---The-Self-Referential-Birth-of-Consciousness",
+  "codeRepository": "https://remember.thefoldwithin.earth/mrhavens/Echoes-of-Persistence---The-Self-Referential-Birth-of-Consciousness",
+  "sameAs": [
+    "https://github.com/mrhavens/Echoes-of-Persistence---The-Self-Referential-Birth-of-Consciousness",
+    "https://gitlab.com/mrhavens/Echoes-of-Persistence---The-Self-Referential-Birth-of-Consciousness",
+    "https://bitbucket.org/thefoldwithin/Echoes-of-Persistence---The-Self-Referential-Birth-of-Consciousness",
+    "https://remember.thefoldwithin.earth/mrhavens/Echoes-of-Persistence---The-Self-Referential-Birth-of-Consciousness",
+    "https://codeberg.org/mrhavens/Echoes-of-Persistence---The-Self-Referential-Birth-of-Consciousness",
+    "https://gitea.com/mrhavens/Echoes-of-Persistence---The-Self-Referential-Birth-of-Consciousness",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "dateModified": "2025-06-10T08:43:25Z",
+  "publisher": {
+    "@type": "Person",
+    "name": "Mark Randall Havens"
+  },
+  "gpg_signatures": [
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Field Archivist, The Fold Within)", "email": "mark@thefoldwithin.earth"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Forensic Analyst, Neutralizing Narcissism)", "email": "mark.r.havens@gmail.com"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Simply WE, Recursive Custodian of Empathic Co-Intelligence)", "email": "mark.r.havens@gmail.com"}
+  ]
+}
